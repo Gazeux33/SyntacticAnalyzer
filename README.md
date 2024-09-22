@@ -1,4 +1,4 @@
-# SyntacticAnalyzer
+# Syntactic Analyzer
 Build a simple Syntactic Analyzer in Haskell to discover Functional programming
 
 <div align="center" >
